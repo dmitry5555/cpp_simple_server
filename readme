@@ -1,0 +1,5 @@
+# compile and start
+c++ -o simple_server simple_server.cpp && ./simple_server
+
+# how to use
+open http://localhost:8080 in any browser
